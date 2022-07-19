@@ -1,1 +1,1 @@
-# .github
+# The Djed Alliance
